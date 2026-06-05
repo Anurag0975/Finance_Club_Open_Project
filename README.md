@@ -28,17 +28,15 @@ This project implements, calibrates, and extends the **Cox-Ingersoll-Ross (CIR)*
 ---
 
 ## Notebook
-
->  **[Open Full Notebook in Google Colab](https://colab.research.google.com/drive/1DAbrPikzw272IELtJZ1jlzH-pcQFQ2-g?usp=sharing)**
-> *(Set to "Anyone with the link can view")*
-
+ 
+Open Colab Link: [Click Here](https://colab.research.google.com/drive/1DAbrPikzw272IELtJZ1jlzH-pcQFQ2-g?usp=sharing)
 ---
 
 
 ## Repository Structure
 
 ```text
-CIR-Interest-Rate-Modelling/
+Finance_Club_Open_Project/
 ├── README.md                           # Project documentation
 └── finance-club-23115018-anurag-sain.ipynb   # Complete CIR Interest Rate Modelling notebook
 
